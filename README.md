@@ -1,6 +1,8 @@
 # CodeForces-Ladders
 Latest ladders for CodeForces
-The main reason I created this, is because the a2oj ladders are pretty outdated (all from 4-5 year old contests). Also, the difficulty level of questions has also increased.
+The main reason I created this, is because the a2oj ladders are pretty outdated (all from 4-5 year old contests). 
+Also, the difficulty level of questions in contests has also increased.
+
 
 There are 5 ladders for now. Mainly for div 2 participants (A-E).
 I've included a `Solved` column, to easily keep track for those who want to practice all the questions. So feel free to fork and star the repo.
