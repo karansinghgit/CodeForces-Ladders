@@ -17,4 +17,5 @@ Just star the repo and then fork it, and then you can personally update `Solved`
 * [Div2E](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/div2E.md)
 
 ### Topic-Wise Ladders:
+* [Strings](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/strings.md)
 * [Dynamic Programming](https://github.com/karansinghgit/CodeForces-Ladders/blob/master/dynamicProgramming.md)
