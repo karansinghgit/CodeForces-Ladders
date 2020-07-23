@@ -99,4 +99,4 @@
 | 97 | [Kirill And The Game](https://codeforces.com/problemset/problem/842/A) | 1300 |  |
 | 98 | [Birthday](https://codeforces.com/problemset/problem/1068/A) | 1300 |  |
 | 99 | [Cloning Toys](https://codeforces.com/problemset/problem/922/A) | 1400 |  |
-| 100 | [A Prank](https://codeforces.com/problemset/problem/1062/A) | 1400 |  |
+| 100 | [A Prank](https://codeforces.com/problemset/problem/1062/A) | 1400 | Solved |
