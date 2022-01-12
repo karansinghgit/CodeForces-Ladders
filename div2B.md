@@ -1,6 +1,6 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 1 | [Keyboard Layouts](https://codeforces.com/problemset/problem/831/B) | 800 |  |
+| 1 | [Keyboard Layouts](https://codeforces.com/problemset/problem/831/B) | 800 |YES  |
 | 2 | [Decoding](https://codeforces.com/problemset/problem/746/B) | 900 |  |
 | 3 | [Watering System](https://codeforces.com/problemset/problem/967/B) | 1000 |  |
 | 4 | [Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) | 1000 |  |
